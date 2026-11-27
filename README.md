@@ -1,7 +1,7 @@
 <div align="center">
   <h1>NOIR.</h1>
   <p>A minimal interface for exploring probability and game mechanics.</p>
-  <p>iOS · Android · Web</p>
+  <p>iOS ! Android</p>
 </div>
 
 ---
