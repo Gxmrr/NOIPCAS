@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "NOIR",
+    "slug": "noir-casino",
+    "version": "5.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "bundleIdentifier": "com.noir.simulator",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.noir.simulator"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
